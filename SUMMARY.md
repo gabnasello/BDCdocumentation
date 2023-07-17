@@ -13,5 +13,5 @@
 ## Notes for Admins
 
 * [Add user to docker group](admin_notes/add_user.md)
-* [Useful commands]()
+* [Useful commands]
   * [Docker commands](admin_notes/docker_utils.md)
