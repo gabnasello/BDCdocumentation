@@ -1,24 +1,17 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [👋 Welcome!](README.md)
 
-## About us
+## Access the Biomedical Data Center
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [First time use?](access_bdc/first_time_use.md)
+* [Run a container](access_bdc/run_container.md)
+* [Mount KUL drives](access_bdc/mount_kul_drives.md)
+* [Update the BDcenter directory](access_bdc/update_BD_directory.md)
+       
 
-## Team
+## Notes for Admins
 
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [Add user to docker group](admin_notes/add_user.md)
+* [Useful commands]()
+  * [Docker commands](admin_notes/docker_utils.md)
