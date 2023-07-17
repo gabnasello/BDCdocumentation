@@ -1,8 +1,4 @@
----
-cover: >-
-  ![Alt text](logo/BDC_logo.svg)
-coverY: 0
----
+![Alt text](logo/BDC_logo.png)
 
 # Welcome to the Biomedical Data Center!
 
