@@ -1,8 +1,5 @@
 # First time use?
 
-+++
----
-
 - Install Visual Studio Code
 
 Follow the [instructions](https://code.visualstudio.com/docs/remote/ssh) to install [Visual Studio Code](https://code.visualstudio.com/) and its [Remote-SSH extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
@@ -23,4 +20,3 @@ After you successfully log in the first time, you need to download the directory
 ```git clone https://github.com/gabnasello/BDcenter.git```
 
 - Ask one of the administrators (Gabriele, Edo, Tim) to add you to the [```docker```](./admin_notes#add-new-user-to-docker-group) group
----
