@@ -1,4 +1,6 @@
-![](logo/BDC_logo.png)
+# 👋 Welcome!
+
+![](logo/BDC\_logo.png)
 
 Open **softwares** and **scripts** for Biomedical Data Science.
 
@@ -6,7 +8,7 @@ Open **softwares** and **scripts** for Biomedical Data Science.
 
 <summary>How to use it?</summary>
 
-Follow the steps in ![Access the Biomedical Data Center](./access_bdc/first_time_use.md).
+Follow the steps in [Access the Biomedical Data Center](broken-reference).
 
 </details>
 
