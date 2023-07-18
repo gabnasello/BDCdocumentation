@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## [Access the Biomedical Data Center](access\_bdc/useful-commands/README.md)
+## [Access the Biomedical Data Center](access\_bdc/README.md)
 
   * [First time use?](access\_bdc/first\_time\_use.md)
   * [Run a container](access\_bdc/run\_container.md)
