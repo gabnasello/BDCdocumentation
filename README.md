@@ -1,6 +1,9 @@
-# 👋 Welcome!
+---
+cover: .gitbook/assets/BDC_logo.png
+coverY: 0
+---
 
-![](logo/BDC\_logo.png)
+# 👋 Welcome!
 
 Open **softwares** and **scripts** for Biomedical Data Science
 
@@ -8,7 +11,7 @@ Open **softwares** and **scripts** for Biomedical Data Science
 
 <summary>How to use it?</summary>
 
-Follow the steps in [Access the Biomedical Data Center](broken-reference).
+Follow the steps in [Access the Biomedical Data Center](broken-reference/).
 
 </details>
 
