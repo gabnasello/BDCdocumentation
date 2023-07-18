@@ -2,7 +2,7 @@
 
 ![](logo/BDC\_logo.png)
 
-Open **softwares** and **scripts** for Biomedical Data Science.
+Open **softwares** and **scripts** for Biomedical Data Science
 
 <details>
 
