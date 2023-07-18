@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/BDC_logo.png
+cover: logo/BDC_logo.png
 coverY: 0
 ---
 

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="360.32251mm"
-   height="145.41116mm"
-   viewBox="0 0 360.32251 145.41116"
+   width="430mm"
+   height="145.411mm"
+   viewBox="0 0 430 145.41099"
    version="1.1"
    id="svg839"
    inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.34778761"
-     inkscape:cx="534.80916"
-     inkscape:cy="215.64886"
+     inkscape:zoom="0.49184595"
+     inkscape:cx="264.3104"
+     inkscape:cy="292.77459"
      inkscape:window-width="1600"
      inkscape:window-height="843"
      inkscape:window-x="0"
@@ -52,34 +52,35 @@
      transform="translate(-42.126521,-42.440751)">
     <text
        xml:space="preserve"
-       transform="matrix(1.7176081,0,0,1.7176081,-579.87501,9.7128215)"
+       transform="matrix(1.0913586,0,0,1.0913586,-251.4279,48.587601)"
        id="text3658"
        style="font-size:22.4149px;line-height:1.25;font-family:IPAexGothic;-inkscape-font-specification:IPAexGothic;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3660);display:inline;fill:#364548;fill-opacity:1"
        x="141.39648"
        y="0"><tspan
          x="445.54002"
          y="54.039973"
-         id="tspan361"><tspan
+         id="tspan1568"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
-           id="tspan355">B</tspan><tspan
+           id="tspan1562">B</tspan><tspan
            style="font-size:18.6791px"
-           id="tspan357">IOMEDICAL</tspan><tspan
+           id="tspan1564">IOMEDICAL</tspan><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
-           id="tspan359">
+           id="tspan1566">
 </tspan></tspan><tspan
          x="437.37887"
          y="84.751009"
-         id="tspan371"><tspan
+         id="tspan1578"><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
-           id="tspan363">D</tspan><tspan
+           id="tspan1570">D</tspan><tspan
            style="font-size:18.6791px"
-           id="tspan365">ATA</tspan><tspan
+           id="tspan1572">ATA</tspan><tspan
            style="font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
-           id="tspan367"> C</tspan><tspan
+           id="tspan1574"> C</tspan><tspan
            style="font-size:18.6791px"
-           id="tspan369">ENTER</tspan></tspan></text>
+           id="tspan1576">ENTER</tspan></tspan></text>
     <g
-       id="g392">
+       id="g392"
+       transform="matrix(0.44806143,0,0,0.44806143,126.1396,63.986835)">
       <g
          id="g13332"
          transform="matrix(0.21842604,0,0,0.2763212,25.91024,25.645774)"
@@ -371,5 +372,19 @@
         </g>
       </g>
     </g>
+    <rect
+       style="fill:#ea0000;stroke-width:2.64599;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.938, 7.938"
+       id="rect460"
+       width="430"
+       height="145.41098"
+       x="42.126522"
+       y="-108.36174" />
+    <rect
+       style="fill:#ea0000;stroke-width:2.64599;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.938, 7.938"
+       id="rect460-3"
+       width="430"
+       height="145.41098"
+       x="-425.06543"
+       y="42.44075" />
   </g>
 </svg>
