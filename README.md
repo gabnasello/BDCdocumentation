@@ -2,7 +2,7 @@
 
 ![](logo/BDC\_logo.png)
 
-<p style="text-align: center;">Open **softwares** and **scripts** for Biomedical Data Science</p>
+Open **softwares** and **scripts** for Biomedical Data Science
 
 <details>
 
