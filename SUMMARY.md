@@ -2,12 +2,17 @@
 
 * [👋 Welcome!](README.md)
 
-## Access the Biomedical Data Center
+## Access the BDC
 
-* [First time use?](access\_bdc/first\_time\_use.md)
-* [Run a container](access\_bdc/run\_container.md)
-* [Mount KUL drives](access\_bdc/mount\_kul\_drives.md)
-* [Update the BDcenter directory](access\_bdc/update\_BD\_directory.md)
+* [First time use?](access-the-bdc/first\_time\_use.md)
+* [Update the BDcenter directory](access-the-bdc/update\_bd\_directory.md)
+
+## Use the BDC
+
+* [Run a container](use-the-bdc/run\_container.md)
+* [Transfer files](use-the-bdc/transfer-files/README.md)
+  * [Mount KUL drives](use-the-bdc/transfer-files/mount\_kul\_drives.md)
+  * [Copy files from you local computer](use-the-bdc/transfer-files/copy-files-from-you-local-computer.md)
 
 ## Notes for Admins
 
