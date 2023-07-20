@@ -1,13 +1,13 @@
-# Useful Docker commands
+# Docker commands
 
 ## List all running containers
 
-```docker container list```
+`docker container list`
 
 ## Kill running container
 
-```docker kill CONTAINERID```
+`docker kill CONTAINERID`
 
 ## Clean system from not properly closed containers
 
-```docker system prune```
+`docker system prune --all --volumes --force`

@@ -21,3 +21,4 @@
 * [Add user to docker group](admin\_notes/add\_user.md)
 * [Useful commands](notes-for-admins/useful-commands/README.md)
   * [Docker commands](admin\_notes/docker\_utils.md)
+  * [Disk Usage](notes-for-admins/useful-commands/disk-usage.md)
