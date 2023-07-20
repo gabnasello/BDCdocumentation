@@ -14,6 +14,7 @@
   * [Mount KUL drives](use-the-bdc/transfer-files/mount\_kul\_drives.md)
   * [Copy files from you local computer](use-the-bdc/transfer-files/copy-files-from-you-local-computer.md)
 * [Personalize your containers](use-the-bdc/personalize-your-containers.md)
+* [Make your container](use-the-bdc/make-your-container.md)
 
 ## Notes for Admins
 
