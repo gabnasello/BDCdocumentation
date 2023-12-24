@@ -18,4 +18,4 @@ After you successfully log in the first time, you need to download the directory
 
 `git clone https://github.com/gabnasello/BDcenter.git`
 
-* Ask one of the administrators (Gabriele, Edo, Tim) to add you to the [`docker`](../admin\_notes/add\_user.md) group
+* Ask one of the administrators (Gabriele, Edo, Tim) to add you to the [`docker`](notes-for-admins/add\_user.md) group

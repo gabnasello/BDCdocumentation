@@ -4,21 +4,23 @@
 
 ## Access the BDC
 
-* [First time use?](access-the-bdc/first\_time\_use.md)
+* [Download the BDcenter directory](access-the-bdc/download-the-bdcenter-directory.md)
 * [Update the BDcenter directory](access-the-bdc/update\_bd\_directory.md)
 
 ## Use the BDC
 
 * [Run a container](use-the-bdc/run\_container.md)
-* [Transfer files](use-the-bdc/transfer-files/README.md)
-  * [Mount KUL drives](use-the-bdc/transfer-files/mount\_kul\_drives.md)
-  * [Copy files from you local computer](use-the-bdc/transfer-files/copy-files-from-you-local-computer.md)
 * [Personalize a container](use-the-bdc/personalize-a-container.md)
 * [Make your own container](use-the-bdc/make-your-container.md)
 
-## Notes for Admins
+## KU Leuven Users
 
-* [Add user to docker group](admin\_notes/add\_user.md)
-* [Useful commands](notes-for-admins/useful-commands/README.md)
-  * [Docker commands](admin\_notes/docker\_utils.md)
-  * [Disk Usage](notes-for-admins/useful-commands/disk-usage.md)
+* [First time use?](ku-leuven-users/first\_time\_use.md)
+* [Transfer files](ku-leuven-users/transfer-files/README.md)
+  * [Mount KUL drives](ku-leuven-users/transfer-files/mount\_kul\_drives.md)
+  * [Copy files from you local computer](ku-leuven-users/transfer-files/copy-files-from-you-local-computer.md)
+* [Notes for Admins](ku-leuven-users/notes-for-admins/README.md)
+  * [Add user to docker group](ku-leuven-users/notes-for-admins/add\_user.md)
+  * [Useful commands](ku-leuven-users/notes-for-admins/useful-commands/README.md)
+    * [Docker commands](ku-leuven-users/notes-for-admins/useful-commands/docker\_utils.md)
+    * [Disk Usage](ku-leuven-users/notes-for-admins/useful-commands/disk-usage.md)

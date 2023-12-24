@@ -11,7 +11,7 @@ Open **softwares** and **scripts** for Biomedical Data Science
 
 <summary>How to use it?</summary>
 
-Follow the steps in [Access the Biomedical Data Center](access-the-bdc/first\_time\_use.md).
+Follow the steps in [Access the Biomedical Data Center](ku-leuven-users/first\_time\_use.md).
 
 </details>
 
