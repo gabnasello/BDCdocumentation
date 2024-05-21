@@ -6,4 +6,4 @@ List information about all available or the specified block devices and find whe
 
 If you hard drive is in `sda1`, you can mount it in your home directory running the command:
 
-`sudo mount /dev/sda1 /home/luna.kuleuven.be/u0152729/ssd/ -o uid=$(id -u) -o gid=$(id -g)`
+`sudo mount /dev/sda1 /home/luna.kuleuven.be/uXXXXXXX/ssd/ -o uid=$(id -u) -o gid=$(id -g)`
