@@ -22,5 +22,6 @@
 * [Notes for Admins](ku-leuven-users/notes-for-admins/README.md)
   * [Add user to docker group](ku-leuven-users/notes-for-admins/add\_user.md)
   * [Useful commands](ku-leuven-users/notes-for-admins/useful-commands/README.md)
-    * [Docker commands](ku-leuven-users/notes-for-admins/useful-commands/docker\_utils.md)
     * [Disk Usage](ku-leuven-users/notes-for-admins/useful-commands/disk-usage.md)
+    * [Docker commands](ku-leuven-users/notes-for-admins/useful-commands/docker\_utils.md)
+    * [Mount a hard drive](ku-leuven-users/notes-for-admins/useful-commands/mount-a-hard-drive.md)
